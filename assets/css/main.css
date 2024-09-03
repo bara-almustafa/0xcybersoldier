@@ -14,6 +14,14 @@ font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, mon
 text-align: left;
 margin: 0 0 20px;
 }
+.code_block {
+    background-color: black; /* Black background */
+    color: white;             /* White text color for contrast */
+    padding: 10px;           /* Add some padding */
+    border-radius: 5px;      /* Optional: Rounded corners */
+    overflow-x: auto;        /* Optional: Scroll horizontally if needed */
+    font-family: monospace;  /* Use a monospace font for code */
+}
 p {
 color: #FFFFFF;
 padding-left: 30px;
@@ -120,4 +128,5 @@ ol {display: table; margin-left: 0; margin-right: auto; list-style-position: ins
 color: #B5E853;
 text-align: center;
 font-size: 70px;
+
 }
