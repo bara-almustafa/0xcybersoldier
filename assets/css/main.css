@@ -7,7 +7,7 @@ background-color: #1A1A1A;
 line-height: 1.5;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
 }
-h1, h2, h3, h4, h5, h6, h7, h8 {
+h1, h2, h3, h4, h5, h6 {
 color: #B5E853;
 line-height: 1.5;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
@@ -116,3 +116,8 @@ ol {display: table; margin-left: 0; margin-right: auto; list-style-position: ins
 .topp {padding-top: 10px;}
 .left {padding-left: 30px}
 .mediumsize {font-size: 19px;}
+#whoami_title {
+color: #B5E853;
+text-align: center;
+font-size: 70px;
+}
