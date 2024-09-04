@@ -1,2 +1,0 @@
-# HACK THE BOX
-

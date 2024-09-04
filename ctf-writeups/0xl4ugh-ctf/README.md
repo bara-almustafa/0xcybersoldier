@@ -1,2 +1,0 @@
-# 0xL4ugh CTF
-
