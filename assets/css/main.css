@@ -139,3 +139,9 @@ font-size: 70px;
     object-fit: cover;
     z-index: -1; /* Place video behind other content */
 }
+
+#info_about_website {
+    color: #B5E853;
+text-align: center;
+font-size: 70px;
+}
